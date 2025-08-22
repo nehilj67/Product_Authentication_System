@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+Flask-Uploads
+qrcode
+pycryptodome
+ipfsapi
+urllib3
